@@ -3,8 +3,5 @@
     "target": "es2018",
     "outDir": "./dist",
     "module": "commonjs"
-  },
-  "dependencies": {
-    "tty": "^1.0.1"
   }
 }
