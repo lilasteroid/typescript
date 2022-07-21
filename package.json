@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "@/todo": "*"
+    "@/todo": "*",
+    "typescript": "4.2.2"
   }
 }
